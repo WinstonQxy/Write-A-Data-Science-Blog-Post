@@ -39,7 +39,8 @@ The following files are available:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@lisaro1982/brussels-airbnb-where-how-what-groups-413186e040f3).
+The main findings of the code can be found at the following post:
+https://medium.com/@lisaro1982/brussels-airbnb-where-how-what-groups-413186e040f3
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
