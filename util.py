@@ -54,18 +54,12 @@ class MyHTMLParser(HTMLParser):
                 
 def getURL(p_url, p_display = True):
     ''' Used to get the data from a given URL.
-<<<<<<< HEAD
         Args: 
             - p_url - URL adrress to be retrieved
             - p_display - display data parser 
         
         Returns: 
             Parsed data ''' 
-=======
-               - p_url - URL adrress to be retrieved
-               - p_display - display data parser 
-        Returns parsed data. ''' 
->>>>>>> 9e67a0c8523b41e7ff5a58b5492fad81211eb8bf
     print(f'*****************************************************\n{p_url}')
     v_session = requests.session()
     v_req = v_session.get(p_url)
